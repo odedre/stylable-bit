@@ -1,0 +1,2 @@
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.FormInputProps = require('../../../../../.dependencies/internal/types/odedreuveny.styled-components/0.0.1/dist/src/types/forms').FormInputProps;

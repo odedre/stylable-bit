@@ -1,0 +1,10 @@
+{
+	"name": "internal-types",
+	"version": "0.0.1",
+	"homepage": "https://bitsrc.io/odedreuveny.styled-components/internal/types",
+	"main": "dist\\src\\types\\index.js",
+	"dependencies": {
+		"wix-react-tools": "^4.0.0"
+	},
+	"scripts": {}
+}

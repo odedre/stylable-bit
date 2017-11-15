@@ -1,0 +1,16 @@
+{
+    "env": {
+        "compiler": "none",
+        "tester": "none"
+    },
+    "dependencies": {
+        "odedreuveny.styled-components/components/checkbox": "0.0.2"
+    },
+    "structure": {
+        "components": "src/components/{namespace}/{name}",
+        "dependencies": "src/components/.dependencies"
+    },
+    "dist": {
+        "target": "dist"
+    }
+}

@@ -1,0 +1,16 @@
+/* button.st.css */
+
+/* 
+note that the root class is automatically placed on the root HTML 
+element by Stylable React integration 
+*/
+.root { 
+    background: #DF850A;
+}
+.icon {
+    /* background-image: url('./assets/btnIcon.svg'); */
+}
+.label {
+    font-size: 1.2em;
+    color: rgba(81, 12, 68, 1.0)
+}

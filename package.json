@@ -1,0 +1,22 @@
+{
+  "name": "my-app-stylable",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "stylable": "^4.0.26",
+    "stylable-integration": "^6.0.0",
+    "stylable-scripts": "0.2.3",
+    "wix-react-tools": "^4.0.0"
+  },
+  "scripts": {
+    "start": "stylable-scripts start",
+    "build": "stylable-scripts build",
+    "eject": "stylable-scripts eject"
+  },
+  "devDependencies": {
+    "@types/react": "^16.0.0",
+    "@types/react-dom": "^16.0.0"
+  }
+}

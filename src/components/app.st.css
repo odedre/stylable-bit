@@ -1,0 +1,7 @@
+.root {
+  text-align: center;
+}
+:import {
+  -st-from: './components/checkbox/src/components/checkbox/checkbox.st.css';
+  -st-default: CheckBox;
+}

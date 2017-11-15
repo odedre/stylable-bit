@@ -1,0 +1,14 @@
+{
+    "env": {
+        "compiler": "bit.envs/compilers/react-typescript@0.0.3",
+        "tester": "none"
+    },
+    "dependencies": {
+        "odedreuveny.styled-components/internal/types": "0.0.1",
+        "odedreuveny.styled-components/internal/utils": "0.0.1"
+    },
+    "packageDependencies": {
+        "react": "15",
+        "wix-react-tools": "^4.0.0"
+    }
+}

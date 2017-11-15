@@ -1,0 +1,10 @@
+{
+    "env": {
+        "compiler": "bit.envs/compilers/react-typescript@0.0.3",
+        "tester": "none"
+    },
+    "dependencies": {},
+    "packageDependencies": {
+        "wix-react-tools": "^4.0.0"
+    }
+}

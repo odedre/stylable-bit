@@ -1,0 +1,11 @@
+{
+	"name": "components-checkbox",
+	"version": "0.0.2",
+	"homepage": "https://bitsrc.io/odedreuveny.styled-components/components/checkbox",
+	"main": "dist\\src\\components\\checkbox\\index.js",
+	"dependencies": {
+		"react": "15",
+		"wix-react-tools": "^4.0.0"
+	},
+	"scripts": {}
+}
