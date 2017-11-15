@@ -1,4 +1,6 @@
-## To launch the project:  
+# Stylable components + Bit
+
+### To launch the project:  
 
 1. yarn  
 2. bit init  
